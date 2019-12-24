@@ -1,2 +1,10 @@
 
 *.txt
+.ipynb_checkpoints/functional_enrichment-checkpoint.ipynb
+.ipynb_checkpoints/proteomics-checkpoint.ipynb
+.ipynb_checkpoints/requests-checkpoint.ipynb
+proteomics/.ipynb_checkpoints/proteomics-checkpoint.ipynb
+transcriptomics/.ipynb_checkpoints/functional_enrichment_transcriptomics-checkpoint.ipynb
+transcriptomics/.ipynb_checkpoints/transcriptomics_final_analysis_E-checkpoint.ipynb
+transcriptomics/.ipynb_checkpoints/transcriptomics_PCA_visualizer-checkpoint.ipynb
+transcriptomics/functional_enrichment/.ipynb_checkpoints/visualization-checkpoint.ipynb
